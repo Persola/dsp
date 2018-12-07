@@ -37,7 +37,7 @@ import statsmodels
 import sklearn
 ```
 
-### Install [Homebrew](http://brew.sh/) on Mac 
+### Install [Homebrew](http://brew.sh/) on Mac
 
 ---
 
@@ -47,7 +47,7 @@ import sklearn
 
 Did you install Python 2 or 3? Why?  
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+> 3, because I think people should eventually adopt new versions of programming languages unless they have compelling reasons not to.
 
 ### Q2. Which Python Version Installed   
 
@@ -55,8 +55,4 @@ In the Terminal:
 
 `python3 --version`
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
-
- 
-
-
+> Python 3.7.0
