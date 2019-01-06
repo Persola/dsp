@@ -80,20 +80,27 @@ This is a classic example of hypothesis testing using the normal distribution.  
 
 
 
-### Q5. Bayesian (Elvis Presley twin) 
+### Q5. Bayesian (Elvis Presley twin)
 
 Bayes' Theorem is an important tool in understanding what we really know, given evidence of other information we have, in a quantitative way.  It helps incorporate conditional probabilities into our conclusions.
 
 Elvis Presley had a twin brother who died at birth.  What is the probability that Elvis was an identical twin? Assume we observe the following probabilities in the population: fraternal twin is 1/125 and identical twin is 1/300.  
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+> (1/300)/((1/125) + (1/300)) = 0.29411764705882354
+
+> (Not sure if I did this right? I doesn't involve conditional probabilities or Bayes' Theorem as mentioned in them
+> description but I'm not sure how else to interpret it.)
 
 ---
 
 ### Q6. Bayesian &amp; Frequentist Comparison  
 How do frequentist and Bayesian statistics compare?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+> Frequentist statistics is a _a prioiri_ approach: it assumes you know what the probabilities of events are ahead of
+> time and based on that helps you develop statistics or more complex probabilities. Bayesian statistics is
+> _a posteriori_: it helps you discover the probabilities of things based on the outcomes. To put it another way,
+> frequentist statistics works with uncertainty that's assumed to result from true randomness while Bayesian statistics
+> works with epistemic uncertainty.
 
 ---
 
